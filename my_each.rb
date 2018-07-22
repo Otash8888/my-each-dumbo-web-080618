@@ -11,4 +11,4 @@ end
 
 collection = [1, 2, 3, 4]
 
-my_each(collection){|n| puts n }
+my_each(collection){|n|  n }
